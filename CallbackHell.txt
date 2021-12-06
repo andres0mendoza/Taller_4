@@ -1,0 +1,14 @@
+Callback Hell
+callback hell es cuando las personas intentan escribir JavaScript de forma tal que la ejecución 
+se realiza visualmente de arriba a abajo. 
+En otros lenguajes como C, Java o Python, existe la expectativa de que todo lo que 
+sucede en la línea 1 finalizará antes de que el código en la línea 2 comience a ejecutarse, 
+y así sucesivamente en el archivo.JavaScript es diferente.
+
+
+¿Como evitar Callback Hell?
+Se pueden evitar utilizando buenas pacticas de desarrollo, pensando que se puede hacer
+para que el codigo sea mas simple y legible para otros programadores.
+
+Tambien se puede solucona utilizando algunas tecnicas de programación o estructuración de código 
+como Diseño Modular, declarar ariables al inicio del codigo, entre otras 
